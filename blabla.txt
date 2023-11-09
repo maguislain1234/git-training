@@ -6,4 +6,8 @@ merge bla
 
 bloublou
 
+
 ceci est un conflit coté master
+
+ceci est un test de merge
+
