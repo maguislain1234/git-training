@@ -6,3 +6,4 @@ merge bla
 
 bloublou
 
+ceci est un conflit coté master
